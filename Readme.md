@@ -1,3 +1,6 @@
+![Article page view](./Articles.gif)
+
+
 A simple 5 article page made with nuxt.js
 
 To run the app, first install dependencies.
